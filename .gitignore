@@ -1,0 +1,24 @@
+ # OS files
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+
+# Editor directories
+.vscode/
+.idea/
+
+# Log files
+.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# Built/site
+dist/
+build/
+
+# Audio/media large files (keep if needed)
+# *.mp3
